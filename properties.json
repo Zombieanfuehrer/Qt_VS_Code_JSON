@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Win64",
+            "compilerPath": "C:/Qt/5.14.2/mingw73_64/bin/g++",
+            "includePath": [
+                "C:/Qt/5.14.2/mingw73_64/include",
+                "${workspaceFolder}/**"
+            ],
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
